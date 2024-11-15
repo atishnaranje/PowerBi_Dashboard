@@ -1,1 +1,2 @@
-# Super_Store_Sales_Dashboard
+# SuperStore_Sales_Dashboard
+Super Store analysis and Dashboard using Power BI
